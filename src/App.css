@@ -36,3 +36,43 @@
     transform: rotate(360deg);
   }
 }
+
+
+.card
+{
+    margin-top:20px;
+    margin-left:35% ;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    text-align: center;
+    font-family: arial;
+    height: 510px;
+  
+}
+
+img
+{
+  height:150px;
+  width: 300px;
+}
+
+.footers{
+ align-items: left;
+  width: 300px;
+  height:30px;
+  background-color:wheat;
+}
+h4{
+  text-align: justify;
+  text-justify: inter-word;
+}
+.twitter
+{
+  margin-left: 20px;
+  margin-right: 40px;
+}
+.icons
+{
+  margin-right: 40px;
+}
+
